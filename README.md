@@ -1,6 +1,4 @@
 # maher-the-conquerer
+<img src="maher.png">
 
-<p align="center">   
-  <img height=85 src="maher.png">
-</p>
       
